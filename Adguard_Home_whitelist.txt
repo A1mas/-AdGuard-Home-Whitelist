@@ -1,0 +1,3 @@
+# My Adguard Home whitelist
+# Investing
+@@||investing.com^$important
